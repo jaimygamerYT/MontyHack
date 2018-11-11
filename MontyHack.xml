@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update>
         <version>2.1.1.0</version> 
-        <url>https://github.com/jaimygamerYT/MontyHack/blob/master/TestApp.exe?raw=true</url> 
+        <url>https://raw.github.com/jaimygamerYT/MontyHack/master/TestApp.exe</url> 
         <filePath>./TestApp.exe</filePath>
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
         <description>Update: 10/06/2018:
